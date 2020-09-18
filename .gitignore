@@ -1,0 +1,11 @@
+.DS_Store
+robots.txt
+maintain.js
+wp-content/updraft/
+wp-content/aiowps_backups/
+*.php
+.htaccess
+#.json
+*backwup*
+*log*
+*backup*
